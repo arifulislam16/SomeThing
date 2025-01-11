@@ -1,1 +1,2 @@
 FROM b2(local) branch
+changed from remote branch
