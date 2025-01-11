@@ -1,1 +1,1 @@
-FROM b1(local) branch
+FROM b2(local) branch
